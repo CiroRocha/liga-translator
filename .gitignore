@@ -8,3 +8,7 @@ node_modules
 # Local Netlify folder
 .netlify
 .DS_Store
+
+## Panda
+styled-system
+styled-system-studio

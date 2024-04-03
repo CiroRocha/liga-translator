@@ -1,0 +1,10 @@
+@layer reset, base, tokens, recipes, utilities;
+
+html {
+    font-family: system-ui, sans-serif;
+}
+
+textarea {
+    width: 100%;
+    height: 300px;
+}
